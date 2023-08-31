@@ -1,0 +1,126 @@
+.blogs{
+font-size: 20px;
+width: 500px;
+}
+
+#iteam{
+    height: 250px;
+    background-color: rgb(192, 192, 207);
+    border-radius: 0px;
+    width: 750px;
+
+}
+.img{
+    width: 300px;
+    height: 220px;
+    margin-top: 10px;
+
+}
+.title{
+display: flex;
+color: rgb(10, 111, 250);
+font-size: 25px;
+margin: 10px;
+margin-left: 60px;
+}
+.text{
+    color: blanchedalmond;
+    display: flex;
+    line-height: 10px;
+    font-size: 20px;
+    margin: 10px;
+    margin-left: 60px;
+}
+.text1{
+    display: flex;
+    font-size: 20px;
+    margin-left: 60px;
+}
+.but{
+    display: flex;
+    margin: 10px;
+    margin-top: 0px;
+    background-color: bisque;
+    border-color:bisque;
+    margin-left: 60px;
+    padding: 10px;
+}
+.App{
+    width: 1100px;
+    background-color: rgb(225, 255, 255);
+    margin: 10px;
+    display: flex;
+   
+ 
+}
+.boxlayout1{
+    width: 300px;
+    height: 580px;
+    background-color:rgb(255, 108, 55);
+    margin-left: 20px;
+    display:flex;
+    flex-direction: column;
+}
+
+.titlelay1{
+text-align: center;
+color: aliceblue;
+margin-top: 20px;
+padding-top:20px;
+}
+.text-lay1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+}
+.tick{
+    text-align: center;
+}
+.butemail{
+    width: 250px;
+    height: 40px;
+    margin: 10px;
+    margin-left: 25px; 
+    background-color: rgb(198, 189, 189); 
+}
+.butdangki{
+    width: 250px;
+    height: 40px;
+    margin: 10px;
+    margin-left: 25px; 
+}
+.boxlayout{
+    width: 300px;
+    height: 580px;
+    background-color:rgb(255, 240, 240);
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.titlelayout{
+    background-color: rgb(68, 13, 217);
+    font-size: 30px;
+    color: white;
+    padding: 10px;
+}
+.card-coment{
+    width: 300px;
+    background-color: rgb(182, 255, 255);
+    margin-bottom: 1px;
+}
+.avata{
+    width: 80px;
+    height: 80px;
+    padding: 10px;
+}
+.coment{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 80px;
+    margin-top: -70px;
+}
+.time-coment{
+    margin-left: 80px;
+}
+
