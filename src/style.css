@@ -5,9 +5,10 @@ width: 500px;
 
 #iteam{
     height: 250px;
-    background-color: rgb(192, 192, 207);
+    background-color: #ecf0f5;
     border-radius: 0px;
     width: 750px;
+    border:  solid 0.1px gainsboro;
 
 }
 .img{
@@ -18,36 +19,36 @@ width: 500px;
 }
 .title{
 display: flex;
-color: rgb(10, 111, 250);
-font-size: 25px;
+color: #1fa9ff;
+font-size: 19px;
 margin: 10px;
 margin-left: 60px;
 }
 .text{
-    color: blanchedalmond;
+    color:  #676363;
     display: flex;
     line-height: 10px;
-    font-size: 20px;
+    font-size: 18px;
     margin: 10px;
     margin-left: 60px;
 }
 .text1{
     display: flex;
-    font-size: 20px;
+    font-size: 18px;
     margin-left: 60px;
 }
 .but{
     display: flex;
     margin: 10px;
     margin-top: 0px;
-    background-color: bisque;
-    border-color:bisque;
+    background-color:  #e2e2e2;
+    border-color: #e2e2e2;
     margin-left: 60px;
     padding: 10px;
 }
 .App{
     width: 1100px;
-    background-color: rgb(225, 255, 255);
+    background-color: #ecf0f0;
     margin: 10px;
     display: flex;
    
@@ -82,7 +83,7 @@ padding-top:20px;
     height: 40px;
     margin: 10px;
     margin-left: 25px; 
-    background-color: rgb(198, 189, 189); 
+    background: #ffece7;
 }
 .butdangki{
     width: 250px;
@@ -99,15 +100,15 @@ padding-top:20px;
 
 }
 .titlelayout{
-    background-color: rgb(68, 13, 217);
+    background-color: #3e5062;
     font-size: 30px;
     color: white;
     padding: 10px;
 }
 .card-coment{
     width: 300px;
-    background-color: rgb(182, 255, 255);
-    margin-bottom: 1px;
+    background-color: #ecf0f5;
+    border-bottom: solid 0.1px gainsboro;
 }
 .avata{
     width: 80px;
